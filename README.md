@@ -8,6 +8,8 @@ R scripts and sample data for running a multiverse analysis of individual differ
 
 Note about data:
 
+This is a SUBSET of the full dataset used in the article.
+
 Data has been prescreened to remove trials with aberrant movements, that exceeded the time
 requirments, or were not experimental trials.
 
