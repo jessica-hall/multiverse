@@ -3,12 +3,13 @@ R scripts and sample data for running a multiverse analysis of individual differ
 
 
  Sample data and code for models provided by Jessica Hall
- Please cite Hall et al. 2019 Frontiers when referencing these data or models.
+ 
+ Please cite Hall et al., 2019 Frontiers when referencing these data or models.
  Abbreviations are described in Table 6 of this article.
 
 Note about data:
 
-This is a SUBSET of the full dataset used in the article.
+This is a SUBSET of the full dataset used in the article. For full datasets, please submit a request via github or the corresponding email address listed in the above article.
 
 Data has been prescreened to remove trials with aberrant movements, that exceeded the time
 requirments, or were not experimental trials.
